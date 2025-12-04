@@ -5,7 +5,12 @@
 //  Created by James Weatherley on 01/12/2025.
 //
 
-import Foundation
-
-print("Hello, World!")
+//Advent1().advent1a()
+//Advent1().advent1b()
+//Advent2().advent2a()
+Advent2().advent2b()
+//Advent3().advent3a()
+//Advent3().advent3b()
+//Advent4().advent4a()
+//Advent4().advent4b()
 

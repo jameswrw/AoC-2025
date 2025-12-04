@@ -1,4 +1,4 @@
-##Advent of Code 2025
+##Advent of Code 2025##
 
 Solution to the 2025 edition of Advent of Code in Swift. The solutions will avoid code golf tricks, and try to be simple. They may not be the cleanest or the fastest - a correct answer is a correct answer after all - but the idea is to keep them fairly clean, and acceptably fast.
 
