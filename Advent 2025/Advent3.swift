@@ -5,9 +5,6 @@
 //  Created by James Weatherley on 03/12/2025.
 //
 
-import Foundation
-
-
 struct Advent3 {
     
     let test =

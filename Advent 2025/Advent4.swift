@@ -5,9 +5,6 @@
 //  Created by James Weatherley on 04/12/2025.
 //
 
-import Foundation
-
-
 class Advent4 {
     
     let test =

@@ -14,7 +14,7 @@ struct Utilities {
         .appending(component: "Documents/Code/Advent 2025/Inputs/")
     
     static func readFile(input: String) -> String {
-        let data = FileManager.default.contents(atPath: Utilities.resourceDirectory.appending(component: input).path)!
+        let data = FileManager.default.contents(atPath: Utilities.resourceDirectory.appending(components: input).path)!
         return String(data: data, encoding: .utf8)!
     }
     
