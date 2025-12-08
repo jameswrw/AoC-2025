@@ -11,3 +11,4 @@ Liberties have been taken. The path to the puzzle input files is hard coded, so 
 4. **Paper rolls**: Another easy one. The second puzzle was more or less wrapping the fist solution in a while loop.
 5. **Ingredient IDs**: Swift RangeSet made both puzzles straightforward.
 6. **Cephalapod maths**: The first puzzle was simple enough, which led to some false confidence after the previous days. I found this to be a parsing nightmare. No doubt others have one lined it!
+7. **Tachyon beams**: I found part one straightforward, but struggled to understand the question for part two. Once I got it solving was easy enough.

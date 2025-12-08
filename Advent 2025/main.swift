@@ -15,6 +15,7 @@
 //Advent4().advent4b()
 //Advent5().advent5a()
 //Advent5().advent5b()
-Advent6().advent6a()
-Advent6().advent6b()
-
+//Advent6().advent6a()
+//Advent6().advent6b()
+Advent7().advent7a()
+Advent7().advent7b()
